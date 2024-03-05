@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/mohamad.jamshidiii8?utm_source=qr&igsh=ZTM4ZDRiNzUwMw==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/mohamadjamshidi8">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="your-twitter-URL">

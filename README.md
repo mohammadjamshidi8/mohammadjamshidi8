@@ -1,7 +1,7 @@
 ![hello](https://github.com/mohammadjamshidi8/mohammadjamshidi8/blob/main/image.svg)
 <br>
 <div align="center" id="badges">
-  <a href="discordapp.com/users/1214019550434304030">
+  <a href="https://discordapp.com/users/1214019550434304030">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="your-youtube-URL">

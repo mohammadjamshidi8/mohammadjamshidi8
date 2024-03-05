@@ -1,15 +1,17 @@
 ![hello](https://github.com/mohammadjamshidi8/mohammadjamshidi8/blob/main/image.svg)
+<br>
 <div align="center" id="badges">
   <a href="discordapp.com/users/1214019550434304030">
-    <img src="https://github.com/mohammadjamshidi8/mohammadjamshidi8/blob/main/discord.png"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="your-youtube-URL">
-    <img src="https://github.com/mohammadjamshidi8/mohammadjamshidi8/blob/main/instagram.png"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="your-twitter-URL">
-    <img src="https://github.com/mohammadjamshidi8/mohammadjamshidi8/blob/main/telegram.png"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -32,7 +34,8 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;&nbsp;
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;&nbsp;
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 </div>
 
 <h1>🔥&nbsp;Github Stats</h1>
